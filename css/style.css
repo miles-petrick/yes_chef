@@ -81,3 +81,17 @@ body {
     }
   }
   
+  .navbar {
+    background: #F7F9FA !important;
+  }
+
+  .navbar-brand {
+    color: #233336 !important;
+  }
+
+  .nav-link {
+    color: #233336 !important;
+    display: flex !important;
+    align-items: flex-end !important;
+
+  }
